@@ -6,17 +6,19 @@ description: <p>Peru during the 1995 Cenepa War.</p>
 locales:
   - es_ES
 aircrafts:
+  - MB-339A
   - Mirage 2000C
   - Mi-24V Hind-E
   - Mi-8MTV2 Hip
-  - MB-339A
   - Su-22M4 Fitter-K
 frontline_units:
-  - T-55A
-  - M113
+  - AMX-13 75mm
   - BRDM-2
   - BTR-80
   - M1043 HMMWV (M2 HMG)
+  - M113
+  - M8 Greyhound Light Armored Car
+  - T-55A
   - ZSU-23-4 Shilka
 artillery_units:
   - BM-21 Grad
@@ -25,12 +27,13 @@ logistics_units:
   - Truck Ural-4320T
 infantry_units:
   - Infantry AK-74
-  - Infantry RPG
   - Infantry M249
+  - Infantry RPG
   - MANPADS SA-18 Igla "Grouse"
 missiles: []
 preset_groups:
   - SA-3/S-125
+  - SA-3/S-125 V-601P/5V27
 naval_units: []
 air_defense_units:
   - AAA ZU-23 Emplacement
